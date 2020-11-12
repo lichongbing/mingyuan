@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.miniapp.config;
+package com.lichongbing.mingyuan.config;
 
 import java.util.List;
 

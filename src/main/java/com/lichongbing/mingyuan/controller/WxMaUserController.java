@@ -1,5 +1,7 @@
-package com.github.binarywang.demo.wx.miniapp.controller;
+package com.lichongbing.mingyuan.controller;
 
+import com.lichongbing.mingyuan.config.WxMaConfiguration;
+import com.lichongbing.mingyuan.utils.JsonUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,8 +14,6 @@ import cn.binarywang.wx.miniapp.api.WxMaService;
 import cn.binarywang.wx.miniapp.bean.WxMaJscode2SessionResult;
 import cn.binarywang.wx.miniapp.bean.WxMaPhoneNumberInfo;
 import cn.binarywang.wx.miniapp.bean.WxMaUserInfo;
-import com.github.binarywang.demo.wx.miniapp.config.WxMaConfiguration;
-import com.github.binarywang.demo.wx.miniapp.utils.JsonUtils;
 import me.chanjar.weixin.common.error.WxErrorException;
 
 /**

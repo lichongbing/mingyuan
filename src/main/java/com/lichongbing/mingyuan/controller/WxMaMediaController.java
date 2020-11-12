@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.miniapp.controller;
+package com.lichongbing.mingyuan.controller;
 
 import java.io.File;
 import java.io.IOException;
@@ -19,7 +19,7 @@ import org.springframework.web.multipart.commons.CommonsMultipartResolver;
 
 import cn.binarywang.wx.miniapp.api.WxMaService;
 import cn.binarywang.wx.miniapp.constant.WxMaConstants;
-import com.github.binarywang.demo.wx.miniapp.config.WxMaConfiguration;
+import com.lichongbing.mingyuan.config.WxMaConfiguration;
 import com.google.common.collect.Lists;
 import com.google.common.io.Files;
 import me.chanjar.weixin.common.bean.result.WxMediaUploadResult;

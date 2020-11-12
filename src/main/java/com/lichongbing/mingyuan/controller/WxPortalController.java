@@ -1,9 +1,9 @@
-package com.github.binarywang.demo.wx.miniapp.controller;
+package com.lichongbing.mingyuan.controller;
 
 import cn.binarywang.wx.miniapp.api.WxMaService;
 import cn.binarywang.wx.miniapp.bean.WxMaMessage;
 import cn.binarywang.wx.miniapp.constant.WxMaConstants;
-import com.github.binarywang.demo.wx.miniapp.config.WxMaConfiguration;
+import com.lichongbing.mingyuan.config.WxMaConfiguration;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

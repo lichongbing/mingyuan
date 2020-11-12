@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.miniapp.error;
+package com.lichongbing.mingyuan.error;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
